@@ -51,7 +51,7 @@ Software as a Service (SaaS) products are particularly interesting for several r
 - They typically have a range of functions
 - They are typically expensive relative to consumer products, which can evoke a more thoughtful review and empower users to voice expectations.
 
-Each product will have differ with regards to the keywords and lexicon depending on the functionality and features it provides or is associated with.  In this project I will focus on Hubspot, which is a CRM and Marketing platform typically used by marketing, sales, and management teams.
+Each product will differ with regards to the keywords and lexicon depending on the functionality and features it provides or is associated with.  In this project I will focus on Hubspot, which is a CRM and Marketing platform typically used by marketing, sales, and management teams.
 
 ## Methodology
 To accomplish this categorization, I created a dataset of  5,447 reviews of [Hubspot](https://www.g2.com/products/hubspot/reviews) from G2.  The reviews answer 4 specific questions:
