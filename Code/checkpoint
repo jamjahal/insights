@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/jamesallanhall/Documents/GA/projects/capstone_git/Capstone/Code/spacy_model.ckpt"
+all_model_checkpoint_paths: "/Users/jamesallanhall/Documents/GA/projects/capstone_git/Capstone/Code/spacy_model.ckpt"
