@@ -1,4 +1,4 @@
 embeddings {
-  tensor_name: "embedding:0"
-  metadata_path: "/Users/jamesallanhall/Documents/GA/projects/capstone_git/Capstone/Code/logs/spacy_metadata.tsv"
+  tensor_name: "embedding"
+  metadata_path: "/Users/allanshomefolder/Documents/GA/projects/capstone_git/Capstone/Code/logs/reviews_metadata.tsv"
 }
