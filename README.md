@@ -135,7 +135,8 @@ The HDBSCAN reduced the data from 300 to 2 dimensions.  The model suggested that
 #### HDBSCAN Soft Clusters
 
 Cluster for which a given point has the highest probability of being in.
-![](Images/DBSCAN cluster2.png)
+
+![](Images/DBSCAN_cluster2.png)
 
 ### Sub-Categorization with Tensorboard Projector
 The 2D clustering of the HDBSCAN model was difficult to visualize.  To get a better sense of the sub-categories, I employed a 3D visualization using Tensorboard Projector using T-SNE for dimension reduction from 300 to 3.  
